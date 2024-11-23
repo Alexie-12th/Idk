@@ -1,2 +1,4 @@
 # Idk
-Limit kan ganteng ya🥰
+cara pake nya
+pkg install git
+git clone 
